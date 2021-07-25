@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArgyriosData
+- 👋 Hi, I’m @ArgyriosData - Argyrios Georgiadis
 - 👀 I’m interested in Data Analysis 
 - 🌱 I’m currently using Python, SQL, R, Sheets and Power BI
 - 💞️ I’m searching for Remote Data Analysis Role 
